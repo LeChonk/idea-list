@@ -20,9 +20,9 @@
 #
 
 - Do we create a lobby or how should matchmaking be done
-- I had 2 ideas for this.
-    * Server Browser: Using MessagingService send messages to each server for new lobbies
-    * Boxes: We have boxes for players to go into to join a match and the first player will be the leader
+    - I had 2 ideas for this.
+        * Server Browser: Using MessagingService send messages to each server for new lobbies
+        * Boxes: We have boxes for players to go into to join a match and the first player will be the leader
 
 #
 
